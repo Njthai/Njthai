@@ -3,7 +3,14 @@
 
 ![Naiara Judith](https://user-images.githubusercontent.com/113634440/229303981-d6307d70-7656-4d52-98c0-cf1d64adbbed.png)
 <h3 align="center">✨ About Me</h3>
-<p align="center">Until less than a month ago I had a pair of scissors in my hands but now I just feel like typing code</p>
+<p align="center">Hello! 🙋🏼‍♀️ I'm Naiara Judith, the girl who traded scissors for a keyboard.
+
+For 6 months, I led a double life of intense learning and workdays, mastering skills in HTML, CSS, SASS, Bootstrap, React.js, Node.js, MySQL, MongoDB, TypeScript, and JavaScript 💻.
+I'm the perfect example to show that perseverance and discipline can lead to great achievements 🏆.
+
+If you're looking for someone who combines creativity, commitment, and an extra dose of motivation, here I am! 👩🏼‍💻 I'm ready to start working on new projects and take on any kind of challenge ✨.
+
+Shall we chat? 😁</p>
 <h3 align="center">Languages and Tools 🛠️</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
